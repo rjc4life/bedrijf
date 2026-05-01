@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Veiligheidsplan Wijzigen/Opslaan knop
 // @namespace    https://tampermonkey.net/
-// @version      2.4.1
+// @version      2.4.2
 // @description  Spiegelt exact de Veiligheidsplan Wijzigen/Opslaan-knop onder Einde uitvoering bedienplan
 // @match        https://os.prd.stedingroep.nl/*
 // @author       Pijper, RJC (Roy)
